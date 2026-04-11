@@ -1,7 +1,7 @@
 {
-  "name": "AFK Bot",
+  "name": "Souran",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Souran",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Souran is the best",
+        "Shreyash ka papa is Souran",
+        "Yuvraj ka papa is Souran"
       ]
     },
     "chat-log": true,
